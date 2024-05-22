@@ -4,3 +4,4 @@ The tasks 5-8 are implemented in files in `src` folder (`BaseN.hs`, `FilterCPS.h
 The tests are in the `Test` directory with the corresponding names
 
 The tashs 1-4 are `exam_solution.jpg`
+(I had variant III)
